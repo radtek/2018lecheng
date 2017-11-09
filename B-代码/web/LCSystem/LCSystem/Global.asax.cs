@@ -15,6 +15,7 @@ namespace LCSystem
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+            AutoRegeist.RegisterDependencies(); //Autofac注册调用
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
     }
