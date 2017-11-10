@@ -4,6 +4,7 @@
 
 <Workspace>
 	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{87A08EE4-DEFA-4EC4-B95B-876493A8DEF1}" Loaded="No" Name="lecheng_DB" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="lecheng_DB.pdm"/>
 		<Model Expanded="Yes" ID="{87A08EE4-DEFA-4EC4-B95B-876493A8DEF1}" Name="lecheng_DB" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="lecheng_DB.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
